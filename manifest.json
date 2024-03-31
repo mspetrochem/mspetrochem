@@ -3,8 +3,8 @@
   "name": "E-Commerce",
   "icons": [
     {
-      "src": "images/logo.jpg",
-      "type": "image/jpg",
+      "src": "images/logo.png",
+      "type": "image/png",
       "sizes": "192x192"
     }
   ],
